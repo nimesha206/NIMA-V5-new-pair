@@ -1,5 +1,5 @@
 {
-    "description": "VolTah-session",
+    "description": "June-sessions",
     "main": "./voltah.js",
   "engines" : { 
     "npm" : ">=9.7.2",
@@ -8,12 +8,12 @@
     "scripts": {
     "start": "node voltah.js"
   },
-  "author": "Giddy Tennor",
+  "author": "supreme",
   "license": "GPL-3.0 license",
   "dependencies": {
     "baileys-pro": "latest",
     "maher-zubair-baileys": "^6.6.5",
-            "@whiskeysockets/baileys":"github:Tennor-modz/MD-Baileys-",
+    "@whiskeysockets/baileys": "^6.7.18",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
     "pino": "^8.1.0",
