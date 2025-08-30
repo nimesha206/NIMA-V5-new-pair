@@ -3,11 +3,11 @@
  * 8 digit pair codes
 
 
-* [Heroku](  https://heroku.com/deploy?template=https://github.com/Tennor-modz/trashcore-pairing)
+* [Heroku](  https://heroku.com/deploy?template=https://github.com/nimesha206/NIMA-V5-new-pair)
  
  all regards to
- > Giddy Tennor
+ > NIMA CODER
 >
 >
 > 
- > Mbuvi Tech
+ > CREATED BY NIMESHA MADHUSHAN
